@@ -2,6 +2,16 @@
 .Rhistory
 .Rapp.history
 
+# Ignore unneeded Quarto folders
+/.quarto/
+docs/
+
+# R Project
+*.Rproj
+
+# Mac files
+.DS_Store
+
 # Session Data files
 .RData
 .RDataTmp
