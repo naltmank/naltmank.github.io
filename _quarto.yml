@@ -10,7 +10,7 @@ execute:
 
 website:
   title: "Noam T. Altman-Kurosaki"
-  repo-url: https://github.com/lter/workshop-quarto
+  repo-url: https://github.com/naltmank/naltmank.github.io
   repo-actions: [issue]
   navbar:
     background: primary
@@ -19,7 +19,7 @@ website:
         href: index.qmd
     right: 
       - icon: github
-        href: https://github.com/lter/workshop-quarto
+        href: https://github.com/naltmank.github.io
   page-footer: 
     center: "Copyright 2025, LTER Network"
     background: secondary
